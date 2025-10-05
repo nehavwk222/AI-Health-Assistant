@@ -6,7 +6,6 @@ AI Health Assistant is a web-based AI chatbot that provides general health advic
 
 - **AI-Powered Health Responses**: Answers general health questions using AI-generated responses.
 - **User-Friendly Interface**: Clean and responsive UI built with Gradio and custom CSS styling.
-- **Advanced NLP Model**: Powered by `microsoft/phi-1.5` model from Hugging Face.
 - **Local Deployment**: Runs entirely on your local machine for privacy and performance.
 
 ## Technologies Used
