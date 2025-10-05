@@ -28,11 +28,8 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. **Clone the repository**:
-
 1. **Clone the repository** to your PC:
 
-```bash
 git clone https://github.com/nehavwk222/AI-Health-Assistant.git
 Open the project folder in PyCharm.
 
@@ -46,7 +43,6 @@ Choose Python version and create.
 
 Install dependencies (if using requirements.txt):
 
-bash
 Copy code
 pip install -r requirements.txt
 Run the main application from the PyCharm terminal:
