@@ -11,7 +11,6 @@ AI Health Assistant is a web-based AI chatbot that provides general health advic
 ## Technologies Used
 
 - **Backend**: Python
-- **AI Model**: Hugging Face's `microsoft/phi-1.5`
 - **Web Interface**: Gradio
 - **Development Environment**: PyCharm
 
