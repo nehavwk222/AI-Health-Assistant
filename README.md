@@ -65,4 +65,5 @@ cpp
 Copy code
 http://127.0.0.1:7860
 
-![AI Health Assistant Interface](https://github.com/nehavwk222/AI-Health-Assistant/blob/main/Screenshot%202025-09-09%20165054.png)
+![AI Health Assistant Interface](images/Screenshot1.png)
+
