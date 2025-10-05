@@ -31,6 +31,7 @@ Ensure you have the following installed:
 1. **Clone the repository** to your PC:
 
 git clone https://github.com/nehavwk222/AI-Health-Assistant.git
+
 Open the project folder in PyCharm.
 
 Create a virtual environment (if not already created). In PyCharm:
