@@ -66,5 +66,5 @@ cpp
 Copy code
 http://127.0.0.1:7860
 
-![AI Health Assistant Interface](images/Screenshot1.png)
+![AI Health Assistant Interface](AI-Health-Assistant.png)
 
